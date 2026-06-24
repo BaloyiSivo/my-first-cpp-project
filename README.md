@@ -23,4 +23,4 @@ Hello, Sivo!
 
 ##  Author
 Baloyi Sivo  
-Future Software Developer 🔥
+Future Software Developer 
